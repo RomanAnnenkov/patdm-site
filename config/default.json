@@ -1,0 +1,10 @@
+{
+  "App": {
+    "web": {
+      "port": 4000
+    },
+    "converter": {
+      "url": "http://localhost:8080"
+    }
+  }
+}
